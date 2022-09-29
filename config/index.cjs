@@ -221,12 +221,12 @@ const USER_CONFIG = {
   CALLBACK_TEMPLATE_ID: 'yBmqCiLLZw7lqKPSdpRPKKccjYhHxj83plKU9RrG2CM',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-  CALLBACK_USERS: [oSx1d5sc9SS0296WGFG7r_pPEqgk
+  CALLBACK_USERS: [wxid_01s6me0b14dr22
     {
       // 一般都填自己
       name: '自己',
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oSx1d5sc9SS0296WGFG7r_pPEqgk',
     }
     // 你可以不断按格式往下增加
     // ...
