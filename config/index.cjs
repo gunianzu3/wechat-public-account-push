@@ -60,14 +60,14 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [oSx1d5sc9SS0296WGFG7r_pPEqgk
+  USERS: [
     {
       // 想要发送的人的名字
       name: '老婆0',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oSx1d5sc9SS0296WGFG7r_pPEqgk',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId: 'yBmqCiLLZw7lqKPSdpRPKKccjYhHxj83plKU9RrG2CM',
       // 所在省份
       province: '广东',
       // 所在城市
@@ -221,7 +221,7 @@ const USER_CONFIG = {
   CALLBACK_TEMPLATE_ID: 'yBmqCiLLZw7lqKPSdpRPKKccjYhHxj83plKU9RrG2CM',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-  CALLBACK_USERS: [wxid_01s6me0b14dr22
+  CALLBACK_USERS: [
     {
       // 一般都填自己
       name: '自己',
