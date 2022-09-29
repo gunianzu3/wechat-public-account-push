@@ -1,5 +1,5 @@
 /* eslint-disable */
-const USER_CONFIG = {
+const USER_CONFIG = {oSx1d5sc9SS0296WGFG7r_pPEqgk
   /**
    * 公众号配置
    */
