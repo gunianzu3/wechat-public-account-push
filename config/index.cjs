@@ -1,5 +1,5 @@
 /* eslint-disable */
-const USER_CONFIG = {"oSx1d5sc9SS0296WGFG7r_pPEqgk"
+const USER_CONFIG = {
   /**
    * 公众号配置
    */
@@ -60,7 +60,7 @@ const USER_CONFIG = {"oSx1d5sc9SS0296WGFG7r_pPEqgk"
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [
+  USERS: [oSx1d5sc9SS0296WGFG7r_pPEqgk
     {
       // 想要发送的人的名字
       name: '老婆0',
