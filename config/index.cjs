@@ -60,7 +60,7 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: ["oSx1d5sc9SS0296WGFG7r_pPEqgk"
+  USERS: [oSx1d5sc9SS0296WGFG7r_pPEqgk
     {
       // 想要发送的人的名字
       name: '老婆0',
@@ -221,7 +221,7 @@ const USER_CONFIG = {
   CALLBACK_TEMPLATE_ID: 'yBmqCiLLZw7lqKPSdpRPKKccjYhHxj83plKU9RrG2CM',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-  CALLBACK_USERS: ['oSx1d5sc9SS0296WGFG7r_pPEqgk'
+  CALLBACK_USERS: [oSx1d5sc9SS0296WGFG7r_pPEqgk
     {
       // 一般都填自己
       name: '自己',
