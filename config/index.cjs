@@ -29,7 +29,7 @@ const USER_CONFIG = {
 
     /** 每日N句 */
     // 金山每日一句
-    CIBA: true,
+    CIBA: false,
     // 每日一言
     oneTalk: false,
     // 土味情话(彩虹屁)
@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oSx1d5sc9SS0296WGFG7r_pPEqgk',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'yBmqCiLLZw7lqKPSdpRPKKccjYhHxj83plKU9RrG2CM',
+      useTemplateId: 'Yz9wOXw46xdZGcA8imgyTvLnIQUAvLZqcS_w78R0Uvk',
       // 所在省份
       province: '湖南',
       // 所在城市
